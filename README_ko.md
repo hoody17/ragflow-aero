@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">123
 <a href="https://demo.ragflow.io/">
 <img src="web/src/assets/logo-with-text.png" width="520" alt="ragflow logo">
 </a>
